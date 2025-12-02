@@ -1,3 +1,3 @@
-print("Welcome to the Library Management System")
+print("Welcome to Library Management System")
 username = input("Enter username: ")
 password = input("Enter password: ")
